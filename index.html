@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Słowniczek Branżowy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Słowniczek Branżowy 🇵🇱🇬🇧🇪🇸</h1>
+
+<div class="controls">
+    <label for="filter-branch">Filtruj po branży:</label>
+    <select id="filter-branch">
+        <option value="">Wszystkie Branże</option>
+    </select>
+
+    <label for="sort-language">Sortuj według języka:</label>
+    <select id="sort-language">
+        <option value="Polski">Polski</option>
+        <option value="Angielski">Angielski</option>
+        <option value="Hiszpański">Hiszpański</option>
+        <option value="Branża">Branża</option>
+    </select>
+
+    <div id="alphabet-filter" class="alphabet-filter">
+    </div>
+</div>
+
+<div class="dictionary-container">
+    <table>
+        <thead>
+        <tr>
+            <th>Branża</th>
+            <th>Polski</th>
+            <th>Angielski</th>
+            <th>Hiszpański</th>
+        </tr>
+        </thead>
+        <tbody id="dictionary-body">
+        </tbody>
+    </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,184 @@
+[
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Firma",
+        "Angielski": "Company",
+        "Hiszpański": "Empresa",
+        "id": 1
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Internet",
+        "Angielski": "Internet",
+        "Hiszpański": "Internet",
+        "id": 2
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Komputer",
+        "Angielski": "Computer",
+        "Hiszpański": "Computadora",
+        "id": 3
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Krzesło",
+        "Angielski": "Chair",
+        "Hiszpański": "Silla",
+        "id": 4
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Biuro",
+        "Angielski": "Office",
+        "Hiszpański": "Oficiana",
+        "id": 5
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Komputer",
+        "Angielski": "Computer",
+        "Hiszpański": "Computadora",
+        "id": 6
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Monitor",
+        "Angielski": "Monitor",
+        "Hiszpański": "Monitor",
+        "id": 7
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Klawiatura",
+        "Angielski": "Keyboard",
+        "Hiszpański": "Teclado",
+        "id": 8
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Myszka",
+        "Angielski": "Mouse",
+        "Hiszpański": "Ratón",
+        "id": 9
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Drukarka",
+        "Angielski": "Printer",
+        "Hiszpański": "Impresora",
+        "id": 10
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Dokumenty",
+        "Angielski": "Documents",
+        "Hiszpański": "Documetos",
+        "id": 11
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Opiekun Praktyk",
+        "Angielski": "Internship Supervisior",
+        "Hiszpański": "Supervisor De Prácticas",
+        "id": 12
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Przyjazd",
+        "Angielski": "Arrival",
+        "Hiszpański": "Ilegada",
+        "id": 13
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Zakwaterowanie",
+        "Angielski": "Accommodation",
+        "Hiszpański": "Alojamiento",
+        "id": 14
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Załadunek",
+        "Angielski": "Loading",
+        "Hiszpański": "Cargando",
+        "id": 15
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Finanse",
+        "Angielski": "Finance",
+        "Hiszpański": "Finanzas",
+        "id": 16
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Analiza",
+        "Angielski": "Analysis",
+        "Hiszpański": "Análisis",
+        "id": 17
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Cena",
+        "Angielski": "Price",
+        "Hiszpański": "Precio",
+        "id": 18
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Ekonomia",
+        "Angielski": "Economics",
+        "Hiszpański": "Economia",
+        "id": 19
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Lokata",
+        "Angielski": "Deposit",
+        "Hiszpański": "Depósito",
+        "id": 20
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Ekonomia,Finanse,Waluty,Praca,Komunikacja",
+        "Angielski": "Economy,Finances,Currencies,Work,Communication",
+        "Hiszpański": "Economia,Finanzas,Monedas,Trabajar,Comunicación",
+        "id": 21
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Bhp",
+        "Angielski": "Health And Safety",
+        "Hiszpański": "Seguridad Y Salud",
+        "id": 22
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Pracownik",
+        "Angielski": "Employee",
+        "Hiszpański": "El Trabajador",
+        "id": 23
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Pracodawca",
+        "Angielski": "Employer",
+        "Hiszpański": "Su Empleador",
+        "id": 24
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Stanowisko Pracy",
+        "Angielski": "Workplace",
+        "Hiszpański": "El Puesto De Trabajo",
+        "id": 25
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Struktura Organizacyjna",
+        "Angielski": "Organizational Structure",
+        "Hiszpański": "La Estructura Organizativa",
+        "id": 26
+    }
+]
