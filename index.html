@@ -1,47 +1,46 @@
 <!DOCTYPE html>
 <html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Słowniczek Branżowy</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1>Słowniczek Branżowy 🇵🇱🇬🇧🇪🇸</h1>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <img src="/9988726.png" alt="" />
 
-<div class="controls">
-    <label for="filter-branch">Filtruj po branży:</label>
-    <select id="filter-branch">
+    <h1>Słowniczek Branżowy 🇵🇱 🇬🇧 🇪🇸</h1>
+    <div class="controls">
+      <label for="filter-branch">Filtruj po branży:</label>
+      <select id="filter-branch">
         <option value="">Wszystkie Branże</option>
-    </select>
+      </select>
 
-    <label for="sort-language">Sortuj według języka:</label>
-    <select id="sort-language">
+      <label for="sort-language">Sortuj według języka:</label>
+      <select id="sort-language">
         <option value="Polski">Polski</option>
         <option value="Angielski">Angielski</option>
         <option value="Hiszpański">Hiszpański</option>
         <option value="Branża">Branża</option>
-    </select>
+      </select>
 
-    <div id="alphabet-filter" class="alphabet-filter">
+      <div id="alphabet-filter" class="alphabet-filter"></div>
     </div>
-</div>
 
-<div class="dictionary-container">
-    <table>
+    <div class="dictionary-container">
+      <table>
         <thead>
-        <tr>
+          <tr>
             <th>Branża</th>
             <th>Polski</th>
             <th>Angielski</th>
             <th>Hiszpański</th>
-        </tr>
+          </tr>
         </thead>
-        <tbody id="dictionary-body">
-        </tbody>
-    </table>
-</div>
+        <tbody id="dictionary-body"></tbody>
+      </table>
+    </div>
 
-<script src="script.js"></script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
