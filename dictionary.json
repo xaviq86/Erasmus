@@ -141,13 +141,6 @@
     },
     {
         "Branża": "Technik Ekonomista",
-        "Polski": "Ekonomia,Finanse,Waluty,Praca,Komunikacja",
-        "Angielski": "Economy,Finances,Currencies,Work,Communication",
-        "Hiszpański": "Economia,Finanzas,Monedas,Trabajar,Comunicación",
-        "id": 21
-    },
-    {
-        "Branża": "Technik Ekonomista",
         "Polski": "Bhp",
         "Angielski": "Health And Safety",
         "Hiszpański": "Seguridad Y Salud",
@@ -180,5 +173,565 @@
         "Angielski": "Organizational Structure",
         "Hiszpański": "La Estructura Organizativa",
         "id": 26
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Internet",
+        "Angielski": "Internet",
+        "Hiszpański": "Internet",
+        "id": 27
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Myszka",
+        "Angielski": "Mouse",
+        "Hiszpański": "Ratón",
+        "id": 28
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Klawiatura",
+        "Angielski": "Keyboard",
+        "Hiszpański": "Teclado",
+        "id": 29
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Monitor",
+        "Angielski": "Monitor",
+        "Hiszpański": "Monitor",
+        "id": 30
+    },
+    {
+        "Branża": "Technik Informatyk",
+        "Polski": "Mysz",
+        "Angielski": "Mouse",
+        "Hiszpański": "Ratón",
+        "id": 31
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Kasa Fiskalna",
+        "Angielski": "Cash Register",
+        "Hiszpański": "Caja Registradora",
+        "id": 32
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Skaner",
+        "Angielski": "Scanner",
+        "Hiszpański": "Escáner",
+        "id": 33
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Terminal Płatniczy",
+        "Angielski": "Payment Terminal",
+        "Hiszpański": "Terminal De Pago",
+        "id": 34
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Identyfikator",
+        "Angielski": "Id",
+        "Hiszpański": "Identificación",
+        "id": 35
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Klient",
+        "Angielski": "Client",
+        "Hiszpański": "Cliente",
+        "id": 36
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Koszt",
+        "Angielski": "Cost",
+        "Hiszpański": "Costo",
+        "id": 37
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Budżet",
+        "Angielski": "Budget",
+        "Hiszpański": "Presupuesto",
+        "id": 38
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Rynek",
+        "Angielski": "Market",
+        "Hiszpański": "Mercado",
+        "id": 39
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Dochód",
+        "Angielski": "Income",
+        "Hiszpański": "Ingreso",
+        "id": 40
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Programować",
+        "Angielski": "Program",
+        "Hiszpański": "Program",
+        "id": 41
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Harmonogram",
+        "Angielski": "Schedule",
+        "Hiszpański": "Programa",
+        "id": 42
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Rząd",
+        "Angielski": "Government",
+        "Hiszpański": "Gobierno",
+        "id": 43
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Drukarka",
+        "Angielski": "Printer",
+        "Hiszpański": "Impresora",
+        "id": 44
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Czcionka",
+        "Angielski": "Font",
+        "Hiszpański": "Fuente",
+        "id": 45
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Data",
+        "Angielski": "Date",
+        "Hiszpański": "Fecha",
+        "id": 46
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Dokument",
+        "Angielski": "Document",
+        "Hiszpański": "Documento",
+        "id": 47
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Plik",
+        "Angielski": "File",
+        "Hiszpański": "Archivo",
+        "id": 48
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Kalendarz",
+        "Angielski": "Calendar",
+        "Hiszpański": "Calendario",
+        "id": 49
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Plan",
+        "Angielski": "Plan",
+        "Hiszpański": "Plan",
+        "id": 50
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Waluta",
+        "Angielski": "Currency",
+        "Hiszpański": "Moneola",
+        "id": 51
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Handel",
+        "Angielski": "Trade",
+        "Hiszpański": "Comercio",
+        "id": 52
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Gospodarka",
+        "Angielski": "Economy",
+        "Hiszpański": "Economia",
+        "id": 53
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Zwrot",
+        "Angielski": "Return",
+        "Hiszpański": "Retorno",
+        "id": 54
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Ubezpieczenie",
+        "Angielski": "Insurance",
+        "Hiszpański": "Seguro",
+        "id": 55
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Spólka",
+        "Angielski": "Company",
+        "Hiszpański": "Compañia",
+        "id": 56
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Zysk",
+        "Angielski": "Profit",
+        "Hiszpański": "Ganancia",
+        "id": 57
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Towar",
+        "Angielski": "Commodlity",
+        "Hiszpański": "Producto",
+        "id": 58
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Towar Wadliwy",
+        "Angielski": "Defecitive Goods",
+        "Hiszpański": "Bienes Defectuosos",
+        "id": 59
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Asortyment",
+        "Angielski": "Assortment",
+        "Hiszpański": "Surtido",
+        "id": 60
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Dostawa",
+        "Angielski": "Delivery",
+        "Hiszpański": "Entrega",
+        "id": 61
+    },
+    {
+        "Branża": "Technik Handlowiec",
+        "Polski": "Dostawca",
+        "Angielski": "Supplier",
+        "Hiszpański": "Proveedor",
+        "id": 62
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Faktura",
+        "Angielski": "Invoice",
+        "Hiszpański": "Factura",
+        "id": 63
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Liczyć",
+        "Angielski": "Calculate",
+        "Hiszpański": "Contar",
+        "id": 64
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Rachunek",
+        "Angielski": "Bill",
+        "Hiszpański": "Cuenta",
+        "id": 65
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Płacić",
+        "Angielski": "Pay",
+        "Hiszpański": "Pagar",
+        "id": 66
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Księgowy",
+        "Angielski": "Accountant",
+        "Hiszpański": "Contable",
+        "id": 67
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Regulamin",
+        "Angielski": "Statute",
+        "Hiszpański": "Reglamento",
+        "id": 68
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Organizacja",
+        "Angielski": "Organization",
+        "Hiszpański": "Organización",
+        "id": 69
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Pracodawca",
+        "Angielski": "Employer",
+        "Hiszpański": "Empleador",
+        "id": 70
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Umowa",
+        "Angielski": "Contract",
+        "Hiszpański": "Acuerdo",
+        "id": 71
+    },
+    {
+        "Branża": "Technik Rachunkowości",
+        "Polski": "Program Księgowy",
+        "Angielski": "Accounting Program",
+        "Hiszpański": "Programa De Contabilidad",
+        "id": 72
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Paleta",
+        "Angielski": "Pallet",
+        "Hiszpański": "Palé",
+        "id": 73
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Wózek Widłowy",
+        "Angielski": "Forklift",
+        "Hiszpański": "Máquina Elevadora",
+        "id": 74
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Karton",
+        "Angielski": "Cardboard Box",
+        "Hiszpański": "Caja De Cartón",
+        "id": 75
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Zabezpieczenie",
+        "Angielski": "Safeguard",
+        "Hiszpański": "Salvagyardia",
+        "id": 76
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Organizacja",
+        "Angielski": "Organization",
+        "Hiszpański": "Organizaciones",
+        "id": 77
+    },
+    {
+        "Branża": "Technik Spedytor",
+        "Polski": "Stroj Roboczy",
+        "Angielski": "Uniform",
+        "Hiszpański": "Ropa De Trabajo",
+        "id": 78
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Ergonomia",
+        "Angielski": "Ergonomics",
+        "Hiszpański": "Ergonomía",
+        "id": 79
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Ochrona Danych",
+        "Angielski": "Data Protection",
+        "Hiszpański": "Protección De Datos",
+        "id": 80
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Szkolenie Bhp",
+        "Angielski": "Health And Safety Training",
+        "Hiszpański": "Capacitación En Seguridad Y Salud",
+        "id": 81
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Ryzyko Zawodowe",
+        "Angielski": "Occupational Risk",
+        "Hiszpański": "Riesgo Laboral",
+        "id": 82
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Polityka Bezpieczeństwa",
+        "Angielski": "Security Policy",
+        "Hiszpański": "Política De Seguridad",
+        "id": 83
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Kod",
+        "Angielski": "Code",
+        "Hiszpański": "Código",
+        "id": 84
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Serwer",
+        "Angielski": "Server",
+        "Hiszpański": "Servidor",
+        "id": 85
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Domena",
+        "Angielski": "Domain",
+        "Hiszpański": "Dominio",
+        "id": 86
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Link",
+        "Angielski": "Link",
+        "Hiszpański": "Enlace",
+        "id": 87
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Popyt",
+        "Angielski": "Demand",
+        "Hiszpański": "Demando",
+        "id": 88
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Podaż",
+        "Angielski": "Supply",
+        "Hiszpański": "Oferta",
+        "id": 89
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Skrypt",
+        "Angielski": "Script",
+        "Hiszpański": "Guion",
+        "id": 90
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Przemysł",
+        "Angielski": "Industry",
+        "Hiszpański": "Industria",
+        "id": 91
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Zmienna",
+        "Angielski": "Variable",
+        "Hiszpański": "Variable",
+        "id": 92
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Funkcja",
+        "Angielski": "Function",
+        "Hiszpański": "Función",
+        "id": 93
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Pętla",
+        "Angielski": "Loop",
+        "Hiszpański": "Bucle",
+        "id": 94
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Błąd",
+        "Angielski": "Bug",
+        "Hiszpański": "Bug",
+        "id": 95
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Repozytorium",
+        "Angielski": "Repository",
+        "Hiszpański": "Repositorio",
+        "id": 96
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Kod Źródłowy",
+        "Angielski": "Source Code",
+        "Hiszpański": "Código Fuente",
+        "id": 97
+    },
+    {
+        "Branża": "Technik Programista",
+        "Polski": "Zapytanie(Sql)",
+        "Angielski": "Query",
+        "Hiszpański": "Consulta",
+        "id": 98
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Drukować",
+        "Angielski": "To Print",
+        "Hiszpański": "Imprimir",
+        "id": 99
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Program",
+        "Angielski": "Software",
+        "Hiszpański": "Software",
+        "id": 100
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Kontrahent",
+        "Angielski": "Contactor",
+        "Hiszpański": "Contratista",
+        "id": 101
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Pieniądze",
+        "Angielski": "Money",
+        "Hiszpański": "Dinero",
+        "id": 102
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Kapitał",
+        "Angielski": "Capital",
+        "Hiszpański": "Capital",
+        "id": 103
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Dokumenty",
+        "Angielski": "Documents",
+        "Hiszpański": "Documentos",
+        "id": 104
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Zysk",
+        "Angielski": "Profit",
+        "Hiszpański": "Beneficio",
+        "id": 105
+    },
+    {
+        "Branża": "Technik Ekonomista",
+        "Polski": "Podatek",
+        "Angielski": "Tax",
+        "Hiszpański": "Impuesto",
+        "id": 106
     }
 ]
